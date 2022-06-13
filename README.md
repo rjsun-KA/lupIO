@@ -1,5 +1,8 @@
 # lupIO
 lupIO screen test.
+#### reference:
+* Github: fpga_test_soc ([https://github.com/ultraembedded/fpga_test_soc](https://github.com/ultraembedded/fpga_test_soc))
+* Github: riscv_soc ([https://github.com/ultraembedded/riscv_soc](https://github.com/ultraembedded/riscv_soc))
 ## 6/11: 
   * install enviroments
   * compiled linux boot elf. 
