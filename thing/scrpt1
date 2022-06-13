@@ -1,0 +1,1 @@
+/home/linux/Desktop/workspace/lup/thing/fpga_test_soc/run.py -d /dev/stdout -f riscv-linux-boot.elf 
